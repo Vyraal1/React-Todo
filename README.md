@@ -21,12 +21,12 @@ We're going to practice building a stateful class component with this project. E
 ```js
 [
   {
-    task: 'Organize Garage',
+    task: "Organize Garage",
     id: 1528817077286,
     completed: false
   },
   {
-    task: 'Bake Cookies',
+    task: "Bake Cookies",
     id: 1528817084358,
     completed: false
   }
@@ -40,8 +40,8 @@ We're going to practice building a stateful class component with this project. E
 #### Instructions
 
 - **Don't focus on styling yet**. We want you to worry about function over form today.
-- Your todo list should display a list of todos, an input field, a submit button, and a clear all button.
-- Be sure to use the given files for building out these components.
+- ~~Your todo list should display a list of todos, an input field, a submit button, and a clear all button.~~
+- ~~Be sure to use the given files for building out these components.~~
 - `<App />` will hold all the data needed for this project. It will also be the container for your Todo Components.
   - All of your application data will be stored here on `<App />`.
   - All of your `handler` functions should live here on `<App />`.
